@@ -1,0 +1,130 @@
+body {
+    line-height: 1;
+    margin: 0;
+    background-image: url(whitebackground.jpg);
+}
+nav, header, footer {
+    display: block;
+}
+
+.Opener {
+    text-align: center;
+    margin: 60px 30px 30px 30px;
+    font-size: 50px;
+    font-family: sans-serif
+}
+
+.home {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 30px;
+    display: block;
+    font-family: sans-serif;
+}
+.hometable1, hometable2 {
+    width: 50%;
+}
+
+.profile {
+    width: 70%;
+    margin: 20px 100px
+    
+}
+.about {
+    margin: auto;
+    font-size: 30px;
+    display:block;
+    float: center;
+    font-family: sans-serif;
+    width: 80%;
+    margin-bottom: 30px;
+}
+
+.aboutr {
+    text-align: center;
+    margin: 50px 30px 50px 30px;
+    font-size: 50px;
+    font-family: sans-serif
+}
+
+.symbol {
+    width: 50%;
+    display: block;
+    margin-top: 115px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recycle {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: sans-serif
+}
+
+.plastic {
+    text-align: left;
+    margin: 50px 30px 30px 30px;
+    font-size: 40px;
+    font-family: sans-serif
+}
+.abouttable1, abouttable2 {
+    width: 50%
+}
+
+.guidetable, mattable {
+    width: 50%;
+}
+.footer {
+    font-family: sans-serif;
+}
+
+nav {
+    width: 100%;
+    margin: 0;
+}
+
+nav ul {
+    background-color: #eee;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+}
+ul.topnav li {
+    list-style: none;
+    float: left;
+    
+}
+ul.topnav li a {
+    display: block;
+    text-decoration: none;
+    min-height: 16px;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    color: black;
+    font-size: 25px;
+    font-family: sans-serif
+}
+
+ul.topnav li a:hover {
+    background-color: #0080ff;
+    color: white;
+}
+
+#Home {
+    
+}
+
+#About {
+    
+}
+
+#Guide {
+    
+}
+
+#Mat {
+    
+}
